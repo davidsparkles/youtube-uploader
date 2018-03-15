@@ -1,4 +1,4 @@
-
+const requestData = require('./input/requestData')
 const getAuthClient = require('./lib/authentication')
 const VideoUploader = require('./lib/VideoUploader')
 const _ = require('lodash')
